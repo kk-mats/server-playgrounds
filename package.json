@@ -5,7 +5,7 @@
 	"repository": "https://github.com/kk-mats/server-playgrounds.git",
 	"author": "kk-mats <k.mats.kk@gmail.com>",
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"multer": "^1.4.2",
 		"node-fetch": "^2.6.0",
 		"react": "^16.9.0",
